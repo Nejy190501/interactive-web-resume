@@ -1,4 +1,4 @@
-# 👨‍💻 Yves Nkwane — Online Resume
+# 👨‍💻 Jean Yves Nkwane — Online Resume
 
 <h3><a href="https://nejy190501.github.io/interactive-web-resume/">🚀 View Live Demo</a></h3>
 
@@ -64,7 +64,7 @@ HTML-Resume/
 
 ## 👤 Author
 
-**Yves Nkwane**  
+**Jean Yves Nkwane**  
 Business Informatics Student — Brandenburg University of Applied Sciences
 
 - 📧 Email: [s_nkwaneebongue24@stud.hwr-berlin.de](mailto:s_nkwaneebongue24@stud.hwr-berlin.de)
